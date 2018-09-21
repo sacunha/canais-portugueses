@@ -1,0 +1,35 @@
+﻿#EXTM3U
+#EXTINF:-1,*-*-* PORTUGAL *-*-*
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/7170.ts
+#EXTINF:-1,RTP 1 LB
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/3437.ts
+#EXTINF:-1,RTP 1
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/1027.ts
+#EXTINF:-1,RTP 1 HD
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/1026.ts
+#EXTINF:-1,RTP 2 LB
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/16157.ts
+#EXTINF:-1,RTP 2
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/697.ts
+#EXTINF:-1,RTP 2 HD
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/696.ts
+#EXTINF:-1,SIC LB
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/3436.ts
+#EXTINF:-1,SIC
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/1025.ts
+#EXTINF:-1,SIC HD
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/1024.ts
+#EXTINF:-1,TVI LB
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/3435.ts
+#EXTINF:-1,TVI
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/689.ts
+#EXTINF:-1,TVI HD
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/792.ts
+#EXTINF:-1,RTP Acores
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/692.ts
+#EXTINF:-1,RTP Africa
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/693.ts
+#EXTINF:-1,RTP Madeira
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/694.ts
+#EXTINF:-1,RTP Memoria
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/695.ts
